@@ -1,7 +1,9 @@
 ## Hi there 👋
-A business grad stepping into the world of automating and coding.
+A business grad stepping into the world of workflow automation and coding.
 
-Reach me at: Linkedin: https://www.linkedin.com/in/thesajidian
+**Connect me on**
+Facebook: www.facebook.com/thesajidian
+Linkedin: https://www.linkedin.com/in/thesajidian
 <!--
 **thesajidian/thesajidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
