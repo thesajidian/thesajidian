@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid</h1>
-<h3 align="center">Business grad, stepping into the word of workflow automation and coding.</h3>
+<h3 align="center">Business grad, stepping into the world of Workflow Automation and coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesajidian&label=Profile%20views&color=0e75b6&style=flat" alt="thesajidian" /> </p>
 
